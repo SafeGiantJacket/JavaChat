@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=GroupChatHub
+comment1.params=
+comment1.target=GroupChatHub()
+comment10.params=groupName
+comment10.target=void\ createGroup(java.lang.String)
+comment11.params=groupName
+comment11.target=void\ deleteGroup(java.lang.String)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=port
+comment2.target=void\ start(int)
+comment3.params=
+comment3.target=void\ createGUI()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ sendMessage()
+comment7.params=message
+comment7.target=void\ broadcastMessage(java.lang.String)
+comment8.params=username
+comment8.target=void\ broadcastTyping(java.lang.String)
+comment9.params=
+comment9.target=void\ broadcastOnlineUsers()
+numComments=13

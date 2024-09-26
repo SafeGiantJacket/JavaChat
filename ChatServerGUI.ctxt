@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ChatServerGUI
+comment1.params=
+comment1.target=ChatServerGUI()
+comment10.params=
+comment10.target=void\ sendAudio()
+comment11.params=
+comment11.target=void\ stop()
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=port
+comment2.target=void\ start(int)
+comment3.params=
+comment3.target=void\ createGUI()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=void\ sendMessage()
+comment9.params=
+comment9.target=void\ sendFile()
+numComments=13
